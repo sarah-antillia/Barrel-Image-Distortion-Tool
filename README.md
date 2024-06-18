@@ -2,7 +2,7 @@
 
 <br>
 <a href="#1">1. Seeing Is Believing</a><br>
-<a href="#2">2.  Run BarrelImageDistorte</a><br>
+<a href="#2">2. Run BarrelImageDistorter</a><br>
 
 <br>
 This is a simple python class <a href="./BarrelImageDistorter.py">BarrelImageDistorter</a> to distort an image by using 
