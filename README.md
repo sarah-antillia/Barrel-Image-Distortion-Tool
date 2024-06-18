@@ -71,7 +71,7 @@ centers    = [(0.3, 0.3), (0.5, 0.5), (0.7, 0.7)]
 <br>
 <h3>1.2 Pincushion Distortion </h3>
 If you would like try a pincushion distortion, please run the following command.<br>
-<br>
+<pre>
 >python BarrelImageDistorterDemo.py ./demo_distortion2.config
 </pre>
 , where demo_distortion2.config file is the following.<br>
