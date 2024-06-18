@@ -45,7 +45,7 @@ output_dir ="./distorted_meshed_images"
 </tr>
 </table>
 <br>
-<b>Output images</b><br>
+<b>Barrel distorted images</b><br>
 The yellow circles in the following images indicate the center of the barrel distortion.<br>
 In the configration file above, there are three centers define. <br>
 <pre>
