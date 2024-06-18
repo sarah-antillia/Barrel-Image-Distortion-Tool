@@ -93,7 +93,7 @@ saved to output_dir.<br>
 
 <br>
 <b>Input images</b> <br>
-<img src="./asset/images_sample.png" width="1024" height="auto"><br>
+<img src="./asset/Images_sample.png" width="1024" height="auto"><br>
 <br>
 <b>Distorted images</b><br>
 <img src="./asset/distorted_images.png" width="1024" height="auto"><br>
