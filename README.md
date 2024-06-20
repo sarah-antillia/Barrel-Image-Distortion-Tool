@@ -236,7 +236,7 @@ road_signs <br>
 </h3> 
 By using the barrel image distortion algorithm, we created a tiny offline <a href="ImageMaskAugmentor.py">ImageMaskAugmentor Tool.</a>.
  
-To run the augmentation tool, please specify a <i>augmentor.config</i> as a command-line parameter as shown below.
+To run the augmentation tool, please specify an <i>augmentor.config</i> as a command-line parameter as shown below.
 <pre>
 >python ImageMaskAugmentor.py augmentor.config
 </pre>
