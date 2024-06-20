@@ -232,7 +232,7 @@ road_signs <br>
 </table>
 
 <h3>
-<a id="3">3. ImageMaskAugmentoe</a>
+<a id="3">3. ImageMaskAugmentor</a>
 </h3> 
 By using the barrel image distortion algorithm, we created a tiny offline <a href="ImageMaskAugmentor.py">ImageMaskAugmentor Tool.</a>.
  
