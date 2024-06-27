@@ -62,19 +62,21 @@ centers    =  [(0.3, 0.3), (0.7, 0.3), (0.5, 0.5), (0.3, 0.7), (0.7, 0.7)]
 <table>
 <tr>
 <td>
-<img src="./distorted_meshed_images/101_0.3_0.3_MeshedPicture.png" width="260" height="auto">
+<img src="./distorted_meshed_images/101_0.3_0.3_MeshedPicture.png" width="320" height="auto">
 </td>
 <td>
-<img src="./distorted_meshed_images/102_0.3_0.3_MeshedPicture.png" width="260" height="auto">
+<img src="./distorted_meshed_images/102_0.3_0.3_MeshedPicture.png" width="320" height="auto">
 </td>
 <td>
-<img src="./distorted_meshed_images/103_0.3_0.3_MeshedPicture.png" width="260" height="auto">
+<img src="./distorted_meshed_images/103_0.3_0.3_MeshedPicture.png" width="320" height="auto">
+</td>
+</tr>
+<tr>
+<td>
+<img src="./distorted_meshed_images/104_0.3_0.3_MeshedPicture.png" width="320" height="auto">
 </td>
 <td>
-<img src="./distorted_meshed_images/104_0.3_0.3_MeshedPicture.png" width="260" height="auto">
-</td>
-<td>
-<img src="./distorted_meshed_images/105_0.3_0.3_MeshedPicture.png" width="260" height="auto">
+<img src="./distorted_meshed_images/105_0.3_0.3_MeshedPicture.png" width="320" height="auto">
 </td>
 
 </tr>
@@ -103,19 +105,21 @@ output_dir ="./distorted_meshed_images2"
 <table>
 <tr>
 <td>
-<img src="./distorted_meshed_images2/101_0.3_-0.3_MeshedPicture.png" width="260" height="auto">
+<img src="./distorted_meshed_images2/101_0.3_-0.3_MeshedPicture.png" width="320" height="auto">
 </td>
 <td>
-<img src="./distorted_meshed_images2/102_0.3_-0.3_MeshedPicture.png" width="260" height="auto">
+<img src="./distorted_meshed_images2/102_0.3_-0.3_MeshedPicture.png" width="320" height="auto">
 </td>
 <td>
-<img src="./distorted_meshed_images2/103_0.3_-0.3_MeshedPicture.png" width="260" height="auto">
+<img src="./distorted_meshed_images2/103_0.3_-0.3_MeshedPicture.png" width="320" height="auto">
+</td>
+</tr>
+<tr>
+<td>
+<img src="./distorted_meshed_images2/104_0.3_-0.3_MeshedPicture.png" width="320" height="auto">
 </td>
 <td>
-<img src="./distorted_meshed_images2/104_0.3_-0.3_MeshedPicture.png" width="260" height="auto">
-</td>
-<td>
-<img src="./distorted_meshed_images2/105_0.3_-0.3_MeshedPicture.png" width="260" height="auto">
+<img src="./distorted_meshed_images2/105_0.3_-0.3_MeshedPicture.png" width="320" height="auto">
 </td>
 
 </tr>
