@@ -1,8 +1,9 @@
-<h2> Barrel-Image-Distortion-Tool (Updated: 2024/06/27)</h2>
+<h2> Barrel-Image-Distortion-Tool (Updated: 2024/09/16)</h2>
 
 <br>
 <img src="./asset/Barrel.png" width="512" height="auto">
 <br><br>
+
 <a href="#1">1. Seeing Is Believing</a><br>
 <a href="#2">2. Run BarrelImageDistorter</a><br>
 <a href="#3">3. ImageMaskAugmentor </a><br>
@@ -17,6 +18,25 @@ https://stackoverflow.com/questions/59776772/python-opencv-how-to-apply-radial-b
 <br>
 This ImageDistorter runs on Python 3.8 or later version. Please install opencv-python to your Python development enviroment.<br>  
 This tool can be used to augment the image and mask files to train an image segmentation model.
+<br><br>
+<table>
+<tr>
+<th>Barrel-Distortion</th>
+<th>Pincushion-Distortion</th>
+</tr>
+<tr>
+<td>
+<img src="./distorted_meshed_images/105_0.3_0.3_MeshedPicture.png" width="512" height="auto">
+</td>
+<td>
+<img src="./distorted_meshed_images2/105_0.3_-0.3_MeshedPicture.png" width="512" height="auto">
+</td>
+
+</tr>
+</table>
+
+<br><br>
+
 <br>
 <h3> 
 <a id="1">1. Seeing Is Believing</a>
@@ -25,7 +45,7 @@ This tool can be used to augment the image and mask files to train an image segm
 <table>
 <tr>
 <td>
-<img src="./meshed_images/MeshedPicture.png" width="320" height="auto">
+<img src="./meshed_images/MeshedPicture.png" width="512" height="auto">
 </td>
 </tr>
 </table>
